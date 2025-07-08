@@ -5,7 +5,7 @@ Protect your platform from bots with our user-friendly human verification websit
 
 This project is a simple web application that verifies whether a user is a human or a bot using a verification mechanism like QA (questions and answers). 
 
-## NOTE: IT USES NIGERIAN ASSENTS IF FOUL PLAYS DETECTED DETECTED
+## NOTE: IT USES NIGERIAN ASSENTS IF FOUL PLAY IS DETECTED 
 
 ## Features
 
