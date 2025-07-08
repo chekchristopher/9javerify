@@ -185,6 +185,7 @@ let emptycount = 0;
 
             if (!allowedGenders.includes(gender)) {
                 document.getElementById('gaybriel').style.display = 'block';
+                document.getElementById('howcome').style.display = 'none';
             } else {
                 document.getElementById('gaybriel').style.display = 'none';
                 document.getElementById('infoemoji').style.display = 'none';
